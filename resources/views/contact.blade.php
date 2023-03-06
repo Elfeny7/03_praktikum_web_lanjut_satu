@@ -1,8 +1,5 @@
 @extends('layouts.nav')
 @section('title', 'Contact Us')
-@section('css')
-
-@endsection
 @section('content')
-
+<h1>Contact</h1>
 @endsection

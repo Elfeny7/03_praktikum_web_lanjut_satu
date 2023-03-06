@@ -10,4 +10,9 @@ class ProgramController extends Controller
     {
         return view('program');
     }
+
+    public function kuliah()
+    {
+        return view('programKuliah');
+    }
 }
