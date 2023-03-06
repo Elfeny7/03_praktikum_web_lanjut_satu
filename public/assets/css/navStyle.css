@@ -1,0 +1,23 @@
+@font-face {
+    font-family: itc;
+    src: url('/assets/fonts/ITCAvantGardeStdBk.otf');
+}
+
+* {
+    font-family: itc;
+    margin: 0;
+    padding: 0;
+}
+
+#navbar{
+    background-color: rgb(203, 203, 203);
+}
+
+#search{
+    color: black;
+    border: black 1px solid;
+}
+#search:hover{
+    background-color: black;
+    color: rgb(203, 203, 203);
+}
